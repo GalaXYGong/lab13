@@ -2,10 +2,15 @@
 
 ["Chris Poon", "John Yin", "Xinyu Gong"]
 
-
+**Lock File Created When Using Terraform Apply (Before Typing Yes)**
 ![Lock File](lock-file.png)
+
+---
+
+**Lock File is Removed After Typing Yes to Terraform Apply and Resources are Created**
 ![Lock File Gone and State File Created](state-file.png)
 
+---
 
 **When is the state file created?**
 
